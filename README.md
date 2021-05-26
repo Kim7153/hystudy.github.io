@@ -1,2 +1,2 @@
-# hystudy.github.io
+# hystud
 个人博客
